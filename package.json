@@ -1,0 +1,11 @@
+{
+  "name": "dombot",
+  "version": "1.0.0",
+  "description": "dombot",
+  "main": "index.js",
+  "author": "domhynes",
+  "license": "ISC",
+  "dependencies": {
+    "tmi.js": "^1.2.1"
+  }
+}
